@@ -11,11 +11,11 @@ API_HASH = getenv("API_HASH", "5f4dcf21daeac7c01bb229e3e3349f3d") #optional
 
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "5655356960").split()))
 OWNER_ID = int(getenv("OWNER_ID",  "5655356960"))
-MONGO_URL = getenv("MONGO_URL",  "mongodb+srv://babukalyan977:babukalyan977@cluster0.fvkyo4r.mongodb.net/?retryWrites=true&w=majority")
-BOT_TOKEN = getenv("BOT_TOKEN", "6266931054:AAEkvXmVTL7wMLlgjwBCq1_aXgpG0kg6Q3g")
-ALIVE_PIC = getenv("ALIVE_PIC", 'https://telegra.ph/file/3c52a01057865f7511168.jpg')
+MONGO_URL = getenv("MONGO_URL",  "mongodb+srv://mongodb+srv://king777:kalyan@cluster0.zco8nze.mongodb.net/?retryWrites=true&w=majority")
+BOT_TOKEN = getenv("BOT_TOKEN", "6115865751:AAEZ-po4tJi1eWOYbvuIdbe3ZfyIePuwgw8")
+ALIVE_PIC = getenv("ALIVE_PIC", 'https://telegra.ph/file/813f420efc5937fcb200d.jpg')
 ALIVE_TEXT = getenv("ALIVE_TEXT",  "kalyan babu")
-PM_LOGGER = getenv("PM_LOGGER")
+PM_LOGGER = getenv("PM_LOGGER" 'https://telegra.ph/file/8d1889f0b73cec790f97a.jpg')
 LOG_GROUP = getenv("LOG_GROUP")
 GIT_TOKEN = getenv("GIT_TOKEN") #personal access token
 REPO_URL = getenv("REPO_URL", "https://github.com/ITZ-ZAID/ZAID-USERBOT")
